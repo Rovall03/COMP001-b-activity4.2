@@ -1,12 +1,13 @@
 .Communication{ line-height: 140%; margin-bottom: 1em;
 }
-div{padding: 30px;background-color: bisque;}
+div{padding: 30px;background-color: bisque;border: dotted brown 4px;}
 h1,h2{text-align: center; 
      font-family: "Chewy", system-ui;
     font-weight: 400;
-color: rgb(129, 93, 63); margin: 20px;padding: 20px;}
+color: rgb(129, 93, 63); margin: 30px;padding: 5px;}
 .intro{text-indent: 4em;}
 .ears p,.kneading p {text-indent: 4em;}
 body{
     font-family: "Playwrite GB S", cursive; font-size: 30px;
   }
+  header{background-color: antiquewhite;}
