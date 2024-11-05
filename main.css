@@ -1,0 +1,12 @@
+.Communication{ line-height: 140%; margin-bottom: 1em;
+}
+div{padding: 30px;}
+h1,h2{text-align: center; 
+     font-family: "Chewy", system-ui;
+    font-weight: 400;
+color: brown;}
+.intro{text-indent: 4em;}
+.ears p,.kneading p {text-indent: 4em;}
+body{
+    font-family: "Playwrite GB S", cursive; font-size: 48px;
+  }
